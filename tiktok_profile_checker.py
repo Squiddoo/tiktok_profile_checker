@@ -5,7 +5,7 @@ from colorama import Fore, Back, Style
 import os,time
 clear = lambda: os.system('cls')  
 from selenium import webdriver, common
-path = "/Users/Gebruiker/Desktop/chromedriver91_win32/chromedriver.exe"
+path = "Your path to chromedriver.exe" #Example: /Users/Gebruiker/Desktop/chromedriver91_win32/chromedriver.exe
 
 
 print('''
