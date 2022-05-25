@@ -1,4 +1,5 @@
 # tiktok_profile_checker
+# [OUTDATED]
 I made this 'tiktok profile checker' to improve my python skills. 
 
 How To Use:
